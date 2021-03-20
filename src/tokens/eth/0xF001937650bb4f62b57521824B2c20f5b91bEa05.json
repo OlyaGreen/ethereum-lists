@@ -1,0 +1,38 @@
+{
+  "symbol": "TARA",
+  "name": "Taraxa Coin",
+  "type": "ERC20",
+  "address": "0xF001937650bb4f62b57521824B2c20f5b91bEa05",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.taraxa.io/",
+  "logo": {
+      "src": "https://github.com/Taraxa-project/taraxa-brand/raw/main/taraxa-logo-1541px.png",
+      "width": "1541px",
+      "height": "1541px",
+      "ipfs_hash": ""
+  },
+  "support": {
+      "email": "contact@taraxa.io",
+      "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/taraxa-project",
+    "chat": "",
+    "discord" : "https://discord.com/invite/WaXnwUb",
+    "facebook": "https://www.facebook.com/taraxa.io",
+    "forum": "https://community.taraxa.io/",
+    "github": "https://github.com/Taraxa-project",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/taraxa-io",
+    "reddit": "https://www.reddit.com/r/Taraxa_Project/",
+    "slack": "",
+    "telegram": "https://t.me/taraxa_project",
+    "twitter": "https://twitter.com/taraxa_project",
+    "youtube": "",
+    "telegram (zh)": "https://t.me/taraxa_project_CN",
+    "weibo": "https://weibo.com/u/7312017511",
+    "bihu": "https://bihu.com/people/1119953"
+  }
+}
